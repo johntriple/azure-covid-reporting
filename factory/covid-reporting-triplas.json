@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-triplas",
+	"location": "italynorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f499f83c-1f69-4e6a-aacb-c4f654f7c4de",
+		"tenantId": "b53cc320-6953-49a4-ad32-9198d8acdda0"
+	}
+}
